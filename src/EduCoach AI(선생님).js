@@ -1,6 +1,4 @@
-EduCoach AI(선생님)
-
-1번 코드 
+//EduCoach AI(선생님)_1번 코드 
 
 import React from "react";
 import { Link, useLocation } from "react-router-dom";

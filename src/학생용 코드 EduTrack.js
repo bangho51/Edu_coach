@@ -1,6 +1,4 @@
-학생용 코드 EduTrack
-
-1번 코드 
+//학생용 코드 EduTrack_1번 코드 
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import { createPageUrl } from "@/utils";
