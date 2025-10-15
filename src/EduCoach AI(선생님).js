@@ -141,7 +141,7 @@ export default function Layout({ children }) {
 }
 
 
-2번 코드 
+//2번 코드 
 
 import React, { useMemo } from "react";
 import { base44 } from "@/api/base44Client";
@@ -277,7 +277,7 @@ export default function Dashboard() {
   );
 }
 
-3번 코드 
+//3번 코드 
 
 import React from 'react';
 import { Card, CardContent } from "@/components/ui/card";
@@ -328,7 +328,7 @@ export default function StatsCard({ title, value, subtitle, icon: Icon, trend, c
   );
 }
 
-4번 코드 
+//4번 코드 
 
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -388,7 +388,7 @@ export default function RecentActivity({ submissions }) {
   );
 }
 
-5번 코드 
+//5번 코드 
 
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
